@@ -6,28 +6,64 @@
             "code": "USA",
             "squareFlag": "https://cdn.countryflags.com/thumbs/united-states-of-america/flag-square-250.png",
             "fullFlag": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png",
-            "bronze": [
+            "sports": [
                 {
-                    "total": "15",
-                    "taekwondo": "3",
-                    "basketball": "7",
-                    "volleyball": "5"
-                }
-            ],
-            "silver": [
-                {
-                    "total": "25",
-                    "taekwondo": "5",
-                    "basketball": "10",
-                    "volleyball": "10"
-                }
-            ],
-            "gold": [
-                {
-                    "total": "35",
-                    "taekwondo": "10",
-                    "basketball": "15",
-                    "volleyball": "10"
+                    "basketball": [
+                        {
+                            "total": "15",
+                            "bronze": "3",
+                            "silver": "7",
+                            "gold": "5"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "25",
+                            "bronze": "5",
+                            "silver": "10",
+                            "gold": "10"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "35",
+                            "bronze": "10",
+                            "silver": "15",
+                            "gold": "10"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "45",
+                            "bronze": "12",
+                            "silver": "18",
+                            "gold": "15"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "28",
+                            "bronze": "8",
+                            "silver": "10",
+                            "gold": "10"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "52",
+                            "bronze": "15",
+                            "silver": "20",
+                            "gold": "17"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "22",
+                            "bronze": "7",
+                            "silver": "8",
+                            "gold": "7"
+                        }
+                    ]
                 }
             ]
         },
@@ -37,28 +73,64 @@
             "code": "CHN",
             "squareFlag": "https://cdn.countryflags.com/thumbs/china/flag-square-250.png",
             "fullFlag": "https://www.countryflags.com/wp-content/uploads/china-flag-png-large.png",
-            "bronze": [
+            "sports": [
                 {
-                    "total": "12",
-                    "taekwondo": "4",
-                    "basketball": "4",
-                    "volleyball": "4"
-                }
-            ],
-            "silver": [
-                {
-                    "total": "22",
-                    "taekwondo": "7",
-                    "basketball": "8",
-                    "volleyball": "7"
-                }
-            ],
-            "gold": [
-                {
-                    "total": "30",
-                    "taekwondo": "10",
-                    "basketball": "10",
-                    "volleyball": "10"
+                    "basketball": [
+                        {
+                            "total": "14",
+                            "bronze": "4",
+                            "silver": "6",
+                            "gold": "4"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "22",
+                            "bronze": "7",
+                            "silver": "8",
+                            "gold": "7"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "30",
+                            "bronze": "8",
+                            "silver": "10",
+                            "gold": "12"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "40",
+                            "bronze": "10",
+                            "silver": "15",
+                            "gold": "15"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "26",
+                            "bronze": "7",
+                            "silver": "10",
+                            "gold": "9"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "48",
+                            "bronze": "13",
+                            "silver": "18",
+                            "gold": "17"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "21",
+                            "bronze": "6",
+                            "silver": "7",
+                            "gold": "8"
+                        }
+                    ]
                 }
             ]
         },
@@ -68,28 +140,64 @@
             "code": "JPN",
             "squareFlag": "https://cdn.countryflags.com/thumbs/japan/flag-square-250.png",
             "fullFlag": "https://www.countryflags.com/wp-content/uploads/japan-flag-png-large.png",
-            "bronze": [
+            "sports": [
                 {
-                    "total": "10",
-                    "taekwondo": "3",
-                    "basketball": "4",
-                    "volleyball": "3"
-                }
-            ],
-            "silver": [
-                {
-                    "total": "18",
-                    "taekwondo": "6",
-                    "basketball": "7",
-                    "volleyball": "5"
-                }
-            ],
-            "gold": [
-                {
-                    "total": "25",
-                    "taekwondo": "8",
-                    "basketball": "9",
-                    "volleyball": "8"
+                    "basketball": [
+                        {
+                            "total": "12",
+                            "bronze": "3",
+                            "silver": "4",
+                            "gold": "5"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "19",
+                            "bronze": "6",
+                            "silver": "7",
+                            "gold": "6"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "26",
+                            "bronze": "7",
+                            "silver": "9",
+                            "gold": "10"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "38",
+                            "bronze": "9",
+                            "silver": "15",
+                            "gold": "14"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "24",
+                            "bronze": "6",
+                            "silver": "9",
+                            "gold": "9"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "45",
+                            "bronze": "12",
+                            "silver": "17",
+                            "gold": "16"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "20",
+                            "bronze": "6",
+                            "silver": "7",
+                            "gold": "7"
+                        }
+                    ]
                 }
             ]
         },
@@ -99,28 +207,64 @@
             "code": "KOR",
             "squareFlag": "https://cdn.countryflags.com/thumbs/south-korea/flag-square-250.png",
             "fullFlag": "https://www.countryflags.com/wp-content/uploads/south-korea-flag-png-large.png",
-            "bronze": [
+            "sports": [
                 {
-                    "total": "13",
-                    "taekwondo": "6",
-                    "basketball": "3",
-                    "volleyball": "4"
-                }
-            ],
-            "silver": [
-                {
-                    "total": "20",
-                    "taekwondo": "8",
-                    "basketball": "5",
-                    "volleyball": "7"
-                }
-            ],
-            "gold": [
-                {
-                    "total": "28",
-                    "taekwondo": "12",
-                    "basketball": "8",
-                    "volleyball": "8"
+                    "basketball": [
+                        {
+                            "total": "13",
+                            "bronze": "3",
+                            "silver": "6",
+                            "gold": "4"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "23",
+                            "bronze": "5",
+                            "silver": "8",
+                            "gold": "10"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "32",
+                            "bronze": "8",
+                            "silver": "12",
+                            "gold": "12"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "36",
+                            "bronze": "8",
+                            "silver": "13",
+                            "gold": "15"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "23",
+                            "bronze": "6",
+                            "silver": "8",
+                            "gold": "9"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "44",
+                            "bronze": "12",
+                            "silver": "17",
+                            "gold": "15"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "19",
+                            "bronze": "6",
+                            "silver": "6",
+                            "gold": "7"
+                        }
+                    ]
                 }
             ]
         },
@@ -130,28 +274,64 @@
             "code": "RUS",
             "squareFlag": "https://cdn.countryflags.com/thumbs/russia/flag-square-250.png",
             "fullFlag": "https://www.countryflags.com/wp-content/uploads/russia-flag-png-large.png",
-            "bronze": [
+            "sports": [
                 {
-                    "total": "14",
-                    "taekwondo": "5",
-                    "basketball": "4",
-                    "volleyball": "5"
-                }
-            ],
-            "silver": [
-                {
-                    "total": "23",
-                    "taekwondo": "7",
-                    "basketball": "8",
-                    "volleyball": "8"
-                }
-            ],
-            "gold": [
-                {
-                    "total": "32",
-                    "taekwondo": "10",
-                    "basketball": "10",
-                    "volleyball": "12"
+                    "basketball": [
+                        {
+                            "total": "11",
+                            "bronze": "2",
+                            "silver": "5",
+                            "gold": "4"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "20",
+                            "bronze": "4",
+                            "silver": "8",
+                            "gold": "8"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "28",
+                            "bronze": "8",
+                            "silver": "10",
+                            "gold": "10"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "34",
+                            "bronze": "9",
+                            "silver": "12",
+                            "gold": "13"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "22",
+                            "bronze": "5",
+                            "silver": "8",
+                            "gold": "9"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "43",
+                            "bronze": "11",
+                            "silver": "17",
+                            "gold": "15"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "18",
+                            "bronze": "5",
+                            "silver": "7",
+                            "gold": "6"
+                        }
+                    ]
                 }
             ]
         },
@@ -161,28 +341,64 @@
             "code": "BRA",
             "squareFlag": "https://cdn.countryflags.com/thumbs/brazil/flag-square-250.png",
             "fullFlag": "https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png",
-            "bronze": [
+            "sports": [
                 {
-                    "total": "11",
-                    "taekwondo": "3",
-                    "basketball": "4",
-                    "volleyball": "4"
-                }
-            ],
-            "silver": [
-                {
-                    "total": "19",
-                    "taekwondo": "6",
-                    "basketball": "6",
-                    "volleyball": "7"
-                }
-            ],
-            "gold": [
-                {
-                    "total": "27",
-                    "taekwondo": "8",
-                    "basketball": "9",
-                    "volleyball": "10"
+                    "basketball": [
+                        {
+                            "total": "14",
+                            "bronze": "3",
+                            "silver": "6",
+                            "gold": "5"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "25",
+                            "bronze": "5",
+                            "silver": "10",
+                            "gold": "10"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "32",
+                            "bronze": "9",
+                            "silver": "12",
+                            "gold": "11"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "39",
+                            "bronze": "10",
+                            "silver": "15",
+                            "gold": "14"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "25",
+                            "bronze": "7",
+                            "silver": "9",
+                            "gold": "9"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "46",
+                            "bronze": "13",
+                            "silver": "18",
+                            "gold": "15"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "20",
+                            "bronze": "6",
+                            "silver": "7",
+                            "gold": "7"
+                        }
+                    ]
                 }
             ]
         },
@@ -192,28 +408,64 @@
             "code": "GER",
             "squareFlag": "https://cdn.countryflags.com/thumbs/germany/flag-square-250.png",
             "fullFlag": "https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png",
-            "bronze": [
+            "sports": [
                 {
-                    "total": "10",
-                    "taekwondo": "2",
-                    "basketball": "4",
-                    "volleyball": "4"
-                }
-            ],
-            "silver": [
-                {
-                    "total": "17",
-                    "taekwondo": "5",
-                    "basketball": "6",
-                    "volleyball": "6"
-                }
-            ],
-            "gold": [
-                {
-                    "total": "26",
-                    "taekwondo": "7",
-                    "basketball": "9",
-                    "volleyball": "10"
+                    "basketball": [
+                        {
+                            "total": "12",
+                            "bronze": "3",
+                            "silver": "4",
+                            "gold": "5"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "20",
+                            "bronze": "5",
+                            "silver": "8",
+                            "gold": "7"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "27",
+                            "bronze": "8",
+                            "silver": "10",
+                            "gold": "9"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "37",
+                            "bronze": "10",
+                            "silver": "14",
+                            "gold": "13"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "24",
+                            "bronze": "6",
+                            "silver": "8",
+                            "gold": "10"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "44",
+                            "bronze": "12",
+                            "silver": "17",
+                            "gold": "15"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "19",
+                            "bronze": "5",
+                            "silver": "7",
+                            "gold": "7"
+                        }
+                    ]
                 }
             ]
         },
@@ -223,28 +475,64 @@
             "code": "FRA",
             "squareFlag": "https://cdn.countryflags.com/thumbs/france/flag-square-250.png",
             "fullFlag": "https://www.countryflags.com/wp-content/uploads/france-flag-png-large.png",
-            "bronze": [
+            "sports": [
                 {
-                    "total": "9",
-                    "taekwondo": "2",
-                    "basketball": "4",
-                    "volleyball": "3"
-                }
-            ],
-            "silver": [
-                {
-                    "total": "18",
-                    "taekwondo": "5",
-                    "basketball": "7",
-                    "volleyball": "6"
-                }
-            ],
-            "gold": [
-                {
-                    "total": "25",
-                    "taekwondo": "7",
-                    "basketball": "9",
-                    "volleyball": "9"
+                    "basketball": [
+                        {
+                            "total": "11",
+                            "bronze": "2",
+                            "silver": "5",
+                            "gold": "4"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "21",
+                            "bronze": "4",
+                            "silver": "8",
+                            "gold": "9"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "29",
+                            "bronze": "8",
+                            "silver": "10",
+                            "gold": "11"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "35",
+                            "bronze": "9",
+                            "silver": "14",
+                            "gold": "12"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "23",
+                            "bronze": "5",
+                            "silver": "9",
+                            "gold": "9"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "42",
+                            "bronze": "11",
+                            "silver": "17",
+                            "gold": "14"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "18",
+                            "bronze": "5",
+                            "silver": "6",
+                            "gold": "7"
+                        }
+                    ]
                 }
             ]
         },
@@ -254,28 +542,64 @@
             "code": "AUS",
             "squareFlag": "https://cdn.countryflags.com/thumbs/australia/flag-square-250.png",
             "fullFlag": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-9-2048x1024.jpg",
-            "bronze": [
+            "sports": [
                 {
-                    "total": "10",
-                    "taekwondo": "3",
-                    "basketball": "3",
-                    "volleyball": "4"
-                }
-            ],
-            "silver": [
-                {
-                    "total": "16",
-                    "taekwondo": "5",
-                    "basketball": "5",
-                    "volleyball": "6"
-                }
-            ],
-            "gold": [
-                {
-                    "total": "24",
-                    "taekwondo": "8",
-                    "basketball": "7",
-                    "volleyball": "9"
+                    "basketball": [
+                        {
+                            "total": "13",
+                            "bronze": "3",
+                            "silver": "5",
+                            "gold": "5"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "22",
+                            "bronze": "5",
+                            "silver": "9",
+                            "gold": "8"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "30",
+                            "bronze": "7",
+                            "silver": "11",
+                            "gold": "12"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "41",
+                            "bronze": "11",
+                            "silver": "16",
+                            "gold": "14"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "25",
+                            "bronze": "6",
+                            "silver": "9",
+                            "gold": "10"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "46",
+                            "bronze": "12",
+                            "silver": "18",
+                            "gold": "16"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "19",
+                            "bronze": "5",
+                            "silver": "7",
+                            "gold": "7"
+                        }
+                    ]
                 }
             ]
         },
@@ -285,28 +609,734 @@
             "code": "UK",
             "squareFlag": "https://cdn.countryflags.com/thumbs/united-kingdom/flag-square-250.png",
             "fullFlag": "https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png",
-            "bronze": [
+            "sports": [
                 {
-                    "total": "12",
-                    "taekwondo": "4",
-                    "basketball": "4",
-                    "volleyball": "4"
+                    "basketball": [
+                        {
+                            "total": "14",
+                            "bronze": "3",
+                            "silver": "6",
+                            "gold": "5"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "25",
+                            "bronze": "5",
+                            "silver": "10",
+                            "gold": "10"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "33",
+                            "bronze": "8",
+                            "silver": "12",
+                            "gold": "13"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "42",
+                            "bronze": "12",
+                            "silver": "17",
+                            "gold": "13"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "26",
+                            "bronze": "7",
+                            "silver": "9",
+                            "gold": "10"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "47",
+                            "bronze": "13",
+                            "silver": "19",
+                            "gold": "15"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "20",
+                            "bronze": "6",
+                            "silver": "7",
+                            "gold": "7"
+                        }
+                    ]
                 }
-            ],
-            "silver": [
+            ]
+        },
+        {
+            "id": 111,
+            "name": "Canada",
+            "code": "CAN",
+            "squareFlag": "https://cdn.countryflags.com/thumbs/canada/flag-square-250.png",
+            "fullFlag": "https://www.countryflags.com/wp-content/uploads/canada-flag-png-large.png",
+            "sports": [
                 {
-                    "total": "19",
-                    "taekwondo": "6",
-                    "basketball": "7",
-                    "volleyball": "6"
+                    "basketball": [
+                        {
+                            "total": "15",
+                            "bronze": "4",
+                            "silver": "5",
+                            "gold": "6"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "21",
+                            "bronze": "5",
+                            "silver": "9",
+                            "gold": "7"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "34",
+                            "bronze": "10",
+                            "silver": "12",
+                            "gold": "12"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "40",
+                            "bronze": "10",
+                            "silver": "15",
+                            "gold": "15"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "28",
+                            "bronze": "8",
+                            "silver": "10",
+                            "gold": "10"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "48",
+                            "bronze": "13",
+                            "silver": "17",
+                            "gold": "18"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "21",
+                            "bronze": "6",
+                            "silver": "7",
+                            "gold": "8"
+                        }
+                    ]
                 }
-            ],
-            "gold": [
+            ]
+        },
+        {
+            "id": 112,
+            "name": "Italy",
+            "code": "ITA",
+            "squareFlag": "https://cdn.countryflags.com/thumbs/italy/flag-square-250.png",
+            "fullFlag": "https://www.countryflags.com/wp-content/uploads/italy-flag-png-large.png",
+            "sports": [
                 {
-                    "total": "28",
-                    "taekwondo": "9",
-                    "basketball": "10",
-                    "volleyball": "9"
+                    "basketball": [
+                        {
+                            "total": "13",
+                            "bronze": "3",
+                            "silver": "5",
+                            "gold": "5"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "23",
+                            "bronze": "5",
+                            "silver": "9",
+                            "gold": "9"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "31",
+                            "bronze": "8",
+                            "silver": "11",
+                            "gold": "12"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "36",
+                            "bronze": "9",
+                            "silver": "13",
+                            "gold": "14"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "26",
+                            "bronze": "6",
+                            "silver": "9",
+                            "gold": "11"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "43",
+                            "bronze": "12",
+                            "silver": "17",
+                            "gold": "14"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "19",
+                            "bronze": "5",
+                            "silver": "7",
+                            "gold": "7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113,
+            "name": "Netherlands",
+            "code": "NLD",
+            "squareFlag": "https://cdn.countryflags.com/thumbs/netherlands/flag-square-250.png",
+            "fullFlag": "https://www.countryflags.com/wp-content/uploads/netherlands-flag-png-large.png",
+            "sports": [
+                {
+                    "basketball": [
+                        {
+                            "total": "14",
+                            "bronze": "3",
+                            "silver": "5",
+                            "gold": "6"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "21",
+                            "bronze": "5",
+                            "silver": "8",
+                            "gold": "8"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "33",
+                            "bronze": "9",
+                            "silver": "11",
+                            "gold": "13"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "38",
+                            "bronze": "9",
+                            "silver": "14",
+                            "gold": "15"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "26",
+                            "bronze": "7",
+                            "silver": "9",
+                            "gold": "10"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "45",
+                            "bronze": "12",
+                            "silver": "18",
+                            "gold": "15"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "20",
+                            "bronze": "6",
+                            "silver": "7",
+                            "gold": "7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114,
+            "name": "Spain",
+            "code": "ESP",
+            "squareFlag": "https://cdn.countryflags.com/thumbs/spain/flag-square-250.png",
+            "fullFlag": "https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png",
+            "sports": [
+                {
+                    "basketball": [
+                        {
+                            "total": "13",
+                            "bronze": "3",
+                            "silver": "5",
+                            "gold": "5"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "22",
+                            "bronze": "5",
+                            "silver": "9",
+                            "gold": "8"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "31",
+                            "bronze": "8",
+                            "silver": "11",
+                            "gold": "12"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "39",
+                            "bronze": "10",
+                            "silver": "15",
+                            "gold": "14"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "27",
+                            "bronze": "7",
+                            "silver": "9",
+                            "gold": "11"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "45",
+                            "bronze": "12",
+                            "silver": "18",
+                            "gold": "15"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "21",
+                            "bronze": "6",
+                            "silver": "8",
+                            "gold": "7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115,
+            "name": "India",
+            "code": "IND",
+            "squareFlag": "https://cdn.countryflags.com/thumbs/india/flag-square-250.png",
+            "fullFlag": "https://www.countryflags.com/wp-content/uploads/india-flag-png-large.png",
+            "sports": [
+                {
+                    "basketball": [
+                        {
+                            "total": "12",
+                            "bronze": "3",
+                            "silver": "4",
+                            "gold": "5"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "21",
+                            "bronze": "5",
+                            "silver": "8",
+                            "gold": "8"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "30",
+                            "bronze": "8",
+                            "silver": "10",
+                            "gold": "12"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "35",
+                            "bronze": "9",
+                            "silver": "13",
+                            "gold": "13"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "22",
+                            "bronze": "6",
+                            "silver": "8",
+                            "gold": "8"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "44",
+                            "bronze": "13",
+                            "silver": "15",
+                            "gold": "16"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "18",
+                            "bronze": "5",
+                            "silver": "6",
+                            "gold": "7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 116,
+            "name": "Mexico",
+            "code": "MEX",
+            "squareFlag": "https://cdn.countryflags.com/thumbs/mexico/flag-square-250.png",
+            "fullFlag": "https://www.countryflags.com/wp-content/uploads/mexico-flag-png-large.png",
+            "sports": [
+                {
+                    "basketball": [
+                        {
+                            "total": "13",
+                            "bronze": "4",
+                            "silver": "5",
+                            "gold": "4"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "22",
+                            "bronze": "5",
+                            "silver": "9",
+                            "gold": "8"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "31",
+                            "bronze": "8",
+                            "silver": "10",
+                            "gold": "13"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "38",
+                            "bronze": "10",
+                            "silver": "14",
+                            "gold": "14"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "24",
+                            "bronze": "6",
+                            "silver": "9",
+                            "gold": "9"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "43",
+                            "bronze": "12",
+                            "silver": "17",
+                            "gold": "14"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "20",
+                            "bronze": "6",
+                            "silver": "7",
+                            "gold": "7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 117,
+            "name": "Sweden",
+            "code": "SWE",
+            "squareFlag": "https://cdn.countryflags.com/thumbs/sweden/flag-square-250.png",
+            "fullFlag": "https://www.countryflags.com/wp-content/uploads/sweden-flag-png-large.png",
+            "sports": [
+                {
+                    "basketball": [
+                        {
+                            "total": "9",
+                            "bronze": "2",
+                            "silver": "3",
+                            "gold": "4"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "15",
+                            "bronze": "4",
+                            "silver": "5",
+                            "gold": "6"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "20",
+                            "bronze": "6",
+                            "silver": "8",
+                            "gold": "6"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "25",
+                            "bronze": "7",
+                            "silver": "9",
+                            "gold": "9"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "14",
+                            "bronze": "3",
+                            "silver": "5",
+                            "gold": "6"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "28",
+                            "bronze": "8",
+                            "silver": "10",
+                            "gold": "10"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "12",
+                            "bronze": "3",
+                            "silver": "4",
+                            "gold": "5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 118,
+            "name": "Norway",
+            "code": "NOR",
+            "squareFlag": "https://cdn.countryflags.com/thumbs/norway/flag-square-250.png",
+            "fullFlag": "https://www.countryflags.com/wp-content/uploads/norway-flag-png-large.png",
+            "sports": [
+                {
+                    "basketball": [
+                        {
+                            "total": "7",
+                            "bronze": "1",
+                            "silver": "2",
+                            "gold": "4"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "13",
+                            "bronze": "3",
+                            "silver": "5",
+                            "gold": "5"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "18",
+                            "bronze": "5",
+                            "silver": "6",
+                            "gold": "7"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "20",
+                            "bronze": "6",
+                            "silver": "7",
+                            "gold": "7"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "10",
+                            "bronze": "2",
+                            "silver": "3",
+                            "gold": "5"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "16",
+                            "bronze": "4",
+                            "silver": "6",
+                            "gold": "6"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "8",
+                            "bronze": "2",
+                            "silver": "3",
+                            "gold": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 119,
+            "name": "South Africa",
+            "code": "ZAF",
+            "squareFlag": "https://cdn.countryflags.com/thumbs/south-africa/flag-square-250.png",
+            "fullFlag": "https://www.countryflags.com/wp-content/uploads/south-africa-flag-png-large.png",
+            "sports": [
+                {
+                    "basketball": [
+                        {
+                            "total": "8",
+                            "bronze": "2",
+                            "silver": "3",
+                            "gold": "3"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "12",
+                            "bronze": "2",
+                            "silver": "5",
+                            "gold": "5"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "16",
+                            "bronze": "4",
+                            "silver": "6",
+                            "gold": "6"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "22",
+                            "bronze": "5",
+                            "silver": "7",
+                            "gold": "10"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "13",
+                            "bronze": "3",
+                            "silver": "4",
+                            "gold": "6"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "19",
+                            "bronze": "6",
+                            "silver": "6",
+                            "gold": "7"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "10",
+                            "bronze": "3",
+                            "silver": "2",
+                            "gold": "5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 120,
+            "name": "Turkey",
+            "code": "TUR",
+            "squareFlag": "https://cdn.countryflags.com/thumbs/turkey/flag-square-250.png",
+            "fullFlag": "https://www.countryflags.com/wp-content/uploads/turkey-flag-png-large.png",
+            "sports": [
+                {
+                    "basketball": [
+                        {
+                            "total": "10",
+                            "bronze": "2",
+                            "silver": "4",
+                            "gold": "4"
+                        }
+                    ],
+                    "volleyball": [
+                        {
+                            "total": "18",
+                            "bronze": "4",
+                            "silver": "6",
+                            "gold": "8"
+                        }
+                    ],
+                    "badminton": [
+                        {
+                            "total": "24",
+                            "bronze": "6",
+                            "silver": "9",
+                            "gold": "9"
+                        }
+                    ],
+                    "swimming": [
+                        {
+                            "total": "27",
+                            "bronze": "7",
+                            "silver": "10",
+                            "gold": "10"
+                        }
+                    ],
+                    "tennis": [
+                        {
+                            "total": "16",
+                            "bronze": "5",
+                            "silver": "6",
+                            "gold": "5"
+                        }
+                    ],
+                    "athletics": [
+                        {
+                            "total": "22",
+                            "bronze": "7",
+                            "silver": "8",
+                            "gold": "7"
+                        }
+                    ],
+                    "boxing": [
+                        {
+                            "total": "12",
+                            "bronze": "4",
+                            "silver": "3",
+                            "gold": "5"
+                        }
+                    ]
                 }
             ]
         }
